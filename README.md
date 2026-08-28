@@ -1,7 +1,9 @@
 <h1 align="center">🕯️ Seek Knowledge to Transcend the Code 🕯️</h1>
 
 <p align="center">
-  <img src="<img width="565" height="353" alt="image" src="https://github.com/user-attachments/assets/7c99a1f3-049b-4d8b-b371-3e138ed9c56f" />
+  <img src="https://github.com/ArtthyZz/ArtthyZz/blob/main/Cyberpunk_Edgerunners_Official_Teaser.gif
+
+
 " alt="banner" width="100%"/>
 </p>
 
