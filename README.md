@@ -12,9 +12,9 @@
 
 ### 📜 Sobre mim
 
-Atualmente aprofundando meus estudos em **Python**, **SQL** e **desenvolvimento web**, aplicando esse conhecimento em projetos pessoais — automações, portfólios e ferramentas web.
+Atualmente aprofundando meus estudos em **C++**, **Banco de Dados** e **desenvolvimento web**, aplicando esse conhecimento em projetos pessoais — automações, portfólios e ferramentas web.
 
-Também tenho experiência com **HTML**, **CSS**, **JavaScript**, **React**, **PHP**, **Git**, e estou explorando **AWS & Cloud Computing**.
+Também tenho experiência com **HTML**, **CSS**, **JavaScript**
 
 ---
 
@@ -22,7 +22,7 @@ Também tenho experiência com **HTML**, **CSS**, **JavaScript**, **React**, **P
 
 | Atributo    | Valor                          |
 |-------------|--------------------------------|
-| 🛡️ Classe   | Backend / Full-Stack Apprentice |
+| 🛡️ Classe   | Frontend / Full-Stack Apprentice |
 | 🌍 Origem   | Brasil                          |
 | 🤝 Covenant | Open Source                     |
 | 🔨 Build    | Estudante / Dev                 |
