@@ -1,7 +1,7 @@
 <h1 align="center">🕯️ Seek Knowledge to Transcend the Code 🕯️</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArtthyZz/main/aniyuki-Cyberpunk-Edgerunners-gif-18.gif" alt="banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ArtthyZz/ArtthyZz/main/aniyuki-Cyberpunk-Edgerunners-gif-18.gif" alt="banner" width="100%"/>
 </p>
 
 <h3 align="center">Backend Developer in Training</h3>
