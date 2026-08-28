@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">🕯️ Seek Knowledge to Transcend the Code 🕯️</h1>
 
-<!--
-**ArtthyZz/ArtthyZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="<img width="565" height="353" alt="image" src="https://github.com/user-attachments/assets/7c99a1f3-049b-4d8b-b371-3e138ed9c56f" />
+" alt="banner" width="100%"/>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">Backend Developer in Training</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>"Student. Builder. Undead."</i></p>
+
+---
+
+### 📜 Sobre mim
+
+Atualmente aprofundando meus estudos em **Python**, **SQL** e **desenvolvimento web**, aplicando esse conhecimento em projetos pessoais — automações, portfólios e ferramentas web.
+
+Também tenho experiência com **HTML**, **CSS**, **JavaScript**, **React**, **PHP**, **Git**, e estou explorando **AWS & Cloud Computing**.
+
+---
+
+### ⚔️ Ficha do Personagem
+
+| Atributo    | Valor                          |
+|-------------|--------------------------------|
+| 🛡️ Classe   | Backend / Full-Stack Apprentice |
+| 🌍 Origem   | Brasil                          |
+| 🤝 Covenant | Open Source                     |
+| 🔨 Build    | Estudante / Dev                 |
+| 🏹 Status   | Caçando bugs                    |
+
+---
+
+### 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,react,php,git,github,aws,vscode" />
+</p>
+
+---
+
+### 🔥 Bonfires Lit — Educação
+
+| Curso                                    | Status         |
+|-------------------------------------------|:--------------:|
+| Análise e Desenvolvimento de Sistemas      | 🟡 Em progresso |
+| AWS Tech Journey — Santander               | 🟡 Em progresso |
+| Microsoft AI-900 Certification             | ✅ Completo     |
+| GenAI & Data Bootcamp — DIO                | ✅ Completo     |
+
+---
+
+### ⚒️ Projetos em Destaque
+
+**[nome-do-projeto](https://github.com/seuusuario/repo)**
+> Breve descrição do projeto: o que ele faz, quais tecnologias usa.
+
+**[outro-projeto](https://github.com/seuusuario/repo2)**
+> Breve descrição do segundo projeto em destaque.
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=dark&hide_border=true" width="60%"/>
+</p>
+
+---
+
+<p align="center"><i>† Seek Paleblood to Transcend the Hunt †</i></p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://seusite.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github"/></a>
+</p>
