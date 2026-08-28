@@ -60,12 +60,12 @@ Também tenho experiência com **HTML**, **CSS**, **JavaScript**
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArtthyZz&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtthyZz&layout=compact&theme=dark&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=dark&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArtthyZz&theme=dark&hide_border=true" width="60%"/>
 </p>
 
 ---
