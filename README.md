@@ -33,7 +33,7 @@ Também tenho experiência com **HTML**, **CSS**, **JavaScript**
 ### 🛠️ Tecnologias
 
 <p align="left">
-  <img src="<img src="https://skillicons.dev/icons?i=mysql,html,css,js,react,php,git,github,cpp,vscode" />" />
+ <img src="https://skillicons.dev/icons?i=mysql,html,css,js,react,php,git,github,cpp,vscode" />
 </p>
 
 ---
