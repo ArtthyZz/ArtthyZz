@@ -42,10 +42,8 @@ Também tenho experiência com **HTML**, **CSS**, **JavaScript**
 
 | Curso                                    | Status         |
 |-------------------------------------------|:--------------:|
-| Análise e Desenvolvimento de Sistemas      | 🟡 Em progresso |
-| AWS Tech Journey — Santander               | 🟡 Em progresso |
-| Microsoft AI-900 Certification             | ✅ Completo     |
-| GenAI & Data Bootcamp — DIO                | ✅ Completo     |
+| Técnico em informática para internet       | 🟡 Em progresso |
+| Cisco fundamento de redes                  | ✅ Completo     |
 
 ---
 
